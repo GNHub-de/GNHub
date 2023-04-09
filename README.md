@@ -17,6 +17,10 @@ Roblox Script code:
 4. Aimbot for all games
 
 # Changelog
+### 1.4
++ Arsenal Weapons Mods
++ Arsenal Wall Bang
+
 ### 1.3
 + Arsenal Removed Speed and Jump Hack
 
