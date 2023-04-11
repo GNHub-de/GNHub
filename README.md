@@ -17,6 +17,9 @@ Roblox Script code:
 4. Aimbot for all games
 
 # Changelog
+### 1.6
++ Bugs Fix on the UI
+
 ### 1.5
 + War Tycoon Inf Ammo Fix
 
