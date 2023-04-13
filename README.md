@@ -17,6 +17,9 @@ Roblox Script code:
 4. Aimbot for all games
 
 # Changelog
+### 1.7
++ Doors Support
+
 ### 1.6
 + Bugs Fix on the UI
 
