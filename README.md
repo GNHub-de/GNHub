@@ -9,6 +9,7 @@ Roblox Script code:
 ## Supported gemas
 1. War Tycoon/Oil Warfare Tycoon
 2. Arsenal
+3. Doors
 
 ## Universal
 1. ESP for all games
