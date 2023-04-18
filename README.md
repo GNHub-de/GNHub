@@ -17,6 +17,10 @@ Roblox Script code:
 4. Aimbot for all games
 
 # Changelog
+### 1.8
++ Noclip
++ Inf Jump
+
 ### 1.7
 + Doors Support
 
