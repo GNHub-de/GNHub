@@ -24,6 +24,7 @@ Roblox Script code:
 + No Recoil
 + No Clip
 + Inf Jump
++ Auto Heal
 
 ### 1.8
 + Noclip
