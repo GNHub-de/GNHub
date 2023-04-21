@@ -18,6 +18,13 @@ Roblox Script code:
 4. Aimbot for all games
 
 # Changelog
+### 1.9
++ Arsenal Update
++ Reinbow Weapon
++ No Recoil
++ No Clip
++ Inf Jump
+
 ### 1.8
 + Noclip
 + Inf Jump
