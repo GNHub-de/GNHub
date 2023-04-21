@@ -1,1 +1,3 @@
-1.8
+Version = "1.8"
+
+return Version
