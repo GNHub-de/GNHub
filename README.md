@@ -81,3 +81,7 @@ Roblox Script code:
 ### 0.2
 + Scripts Tab
 + War Tycoon Doors Deleter
+
+### 0.1
++ Created GNHub
++ War Tycoon Script 
