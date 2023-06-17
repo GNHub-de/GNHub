@@ -1,3 +1,3 @@
-Discord = "https://discord.gg/YbzzxJ3qM9"
+Discord = "YbzzxJ3qM9"
 
 return Discord
