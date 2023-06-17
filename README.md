@@ -18,6 +18,11 @@ Roblox Script code:
 4. Aimbot for all games
 
 # Changelog
+### 2.0 alpha [SOON]
++ NEW Self made UI
++ Mobile Support
++ Revision of the scripts
+
 ### 1.9
 + Arsenal Update
 + Reinbow Weapon
