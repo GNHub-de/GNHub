@@ -21,7 +21,6 @@ Roblox Script code:
 ### 2.0 alpha [SOON]
 + NEW Self made UI
 + Mobile Support
-+ Revision of the scripts
 
 ### 1.9
 + Arsenal Update
