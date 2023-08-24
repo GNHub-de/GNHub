@@ -3,13 +3,13 @@ Roblox Script code:
 ```loadstring(game:HttpGet("https://raw.githubusercontent.com/nici002018/GNHub/master/GNHub.lua"))()```
 
 + created by Niceas
-+ Discord: Niceas#1898
++ Discord: niceas_yt
 + Discord Server: https://discord.gg/YbzzxJ3qM9
 
 ## Supported gemas
 1. War Tycoon/Oil Warfare Tycoon
 2. Arsenal
-3. Doors
+3. Doors (Soon)
 
 ## Universal
 1. ESP for all games
@@ -19,8 +19,7 @@ Roblox Script code:
 
 # Changelog
 ### 2.0 alpha [SOON]
-+ NEW Self made UI
-+ Mobile Support
++ cooking
 
 ### 1.9
 + Arsenal Update
