@@ -18,8 +18,11 @@ Roblox Script code:
 4. Aimbot for all games
 
 # Changelog
+### 2.2 _alpha_
++ Mobile ESP Error fix
+
 ### 2.1 _alpha_
-• Mobile Gui close Fix
++ Mobile Gui close Fix
 
 ### 2.0 _alpha_
 + New GUI
