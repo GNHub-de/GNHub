@@ -18,7 +18,7 @@ Roblox Script code:
 4. Aimbot for all games
 
 # Changelog
-### 2.0 _alpha_ [SOON]
+### 2.0 _alpha_
 + New GUI
 + New ESP
 + New Aimbot
