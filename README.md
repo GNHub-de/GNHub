@@ -19,20 +19,20 @@ Roblox Script code:
 
 # Changelog
 ### 2.0 _alpha_ [SOON]
-• New GUI
-• New ESP
-• New Aimbot
-• New Loader
-• Mobile Support (Mobile isn't optimized that well yet.)
++ New GUI
++ New ESP
++ New Aimbot
++ New Loader
++ Mobile Support (Mobile isn't optimized that well yet.)
 
 War Tycoon
-• New Weapons mods
-• More Teleports
-• And more.
++ New Weapons mods
++ More Teleports
++ And more.
 
 Arsenal
-• Speed Hack
-• More Mods
++ Speed Hack
++ More Mods
 
 ### 1.9
 + Arsenal Update
