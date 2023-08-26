@@ -20,6 +20,10 @@ Roblox Script code:
 4. Aimbot for all games
 
 # Changelog
+### 2.3 _alpha_
+War Tycoon
++ the weapons mods where you must have made a hit became buttons
+
 ### 2.2 _alpha_
 + Mobile ESP Error fix
 
