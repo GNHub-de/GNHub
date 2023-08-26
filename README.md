@@ -6,6 +6,8 @@ Roblox Script code:
 + Discord: niceas_yt
 + Discord Server: https://discord.gg/YbzzxJ3qM9
 
+![GNHub V2](https://cdn.discordapp.com/attachments/1093092621544599622/1138915276847587328/Thumbnail.png)
+
 ## Supported gemas
 1. War Tycoon/Oil Warfare Tycoon
 2. Arsenal
