@@ -1,3 +1,3 @@
-Version = "2.0 alpha"
+Version = "2.2 alpha"
 
 return Version
