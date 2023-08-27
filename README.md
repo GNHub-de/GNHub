@@ -20,6 +20,10 @@ Roblox Script code:
 4. Aimbot for all games
 
 # Changelog
+### 2.4 _alpha_
++ Arsenal for mobile is activated (but in restricted mode, that is, the functions where the game crashes were taken out)
++ War Tycoon Bug Fix
+
 ### 2.3 _alpha_
 War Tycoon
 + the weapons mods where you must have made a hit became buttons
