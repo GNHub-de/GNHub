@@ -20,6 +20,9 @@ Roblox Script code:
 4. Aimbot for all games
 
 # Changelog
+### 2.7 _alpha_
++ Noclip optimized
+
 ### 2.6 _alpha_
 + Mobile Arsenal is out of restricted mode
 
