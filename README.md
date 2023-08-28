@@ -20,6 +20,9 @@ Roblox Script code:
 4. Aimbot for all games
 
 # Changelog
+### 2.6 _alpha_
++ Mobile Arsenal is out of restricted mode
+
 ### 2.5 _alpha_
 + Arsenal ESP Team check Fix
 + Mobile aimbot toggle disappears Fix
