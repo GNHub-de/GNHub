@@ -20,6 +20,9 @@ Roblox Script code:
 4. Aimbot for all games
 
 # Changelog
+### 2.8 _alpha_
++ War Tycooon Fixes
+
 ### 2.7 _alpha_
 + Noclip optimized
 
