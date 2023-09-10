@@ -20,6 +20,10 @@ Roblox Script code:
 4. Aimbot for all games
 
 # Changelog
+### 2.0 _Beta_
++ War Tycoon Fixed (before you claimed a base gnhub did not work anymore)
++ War Tycoon Fixed (RPG INF Ammo)
+
 ### 2.8 _alpha_
 + War Tycooon Fixes
 
