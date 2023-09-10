@@ -5,6 +5,8 @@ Roblox Script code:
 + created by Niceas
 + Discord: niceas_yt
 + Discord Server: https://discord.gg/YbzzxJ3qM9
++ Website: https://gnhub.de/
++ Status Website: https://status.gnhub.de/
 
 ![GNHub V2](https://cdn.discordapp.com/attachments/1093092621544599622/1138915276847587328/Thumbnail.png)
 
