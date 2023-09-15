@@ -5,15 +5,12 @@ Roblox Script code:
 + created by Niceas
 + Discord: niceas_yt
 + Discord Server: https://discord.gg/YbzzxJ3qM9
-+ Website: https://gnhub.de/
-+ Status Website: https://status.gnhub.de/
 
 ![GNHub V2](https://cdn.discordapp.com/attachments/1093092621544599622/1138915276847587328/Thumbnail.png)
 
 ## Supported gemas
-1. War Tycoon/Oil Warfare Tycoon
+1. War Tycoon
 2. Arsenal
-3. Doors (Soon)
 
 ## Universal
 1. ESP for all games
@@ -22,6 +19,8 @@ Roblox Script code:
 4. Aimbot for all games
 
 # Changelog
+### Paused
+
 ### 2.0 _Beta_
 + War Tycoon Fixed (before you claimed a base gnhub did not work anymore)
 + War Tycoon Fixed (RPG INF Ammo)
