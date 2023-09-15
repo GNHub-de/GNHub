@@ -59,9 +59,9 @@ local function startup()
             BaseDiamondPlate = game:GetService("Workspace").Tycoon.Tycoons[LocalPlayer.leaderstats.Team.Value]["Essentials"]["Oil Collector"]["Crate Collector"]
                 .DiamondPlate.CFrame
         }
-        local GNHub = loadstring(game:HttpGetAsync("http://45.146.255.5:8100/UI%20222435-%20GNHub5345341.lua"))()
-        local Aimbot = loadstring(game:HttpGetAsync("http://45.146.255.5:8100/Aimbot%20-%20GNHub137773.lua"))()
-        loadstring(game:HttpGetAsync("http://45.146.255.5:8100/ESP%20-%20GNHub34324234.lua"))()
+        local GNHub = loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/nici002018/GNHub/master/libs/UI%20-%20GNHub.lua"))()
+        local Aimbot = loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/nici002018/GNHub/master/libs/Aimbot%20-%20GNHub.lua"))()
+        loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/nici002018/GNHub/master/libs/ESP%20-%20GNHub.lua"))()
 
         function Speed()
             while true do
@@ -782,7 +782,7 @@ local function startup()
         TeleportTab:Holder()
 
         GUI:Holder()
-        loadstring(game:HttpGetAsync("http://45.146.255.5:8100/War4932t9coon3autoww.lua"))()
+        loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/nici002018/GNHub/master/misc/War%20Tycoon%20Autofarm.lua"))()
     end
 end
 
