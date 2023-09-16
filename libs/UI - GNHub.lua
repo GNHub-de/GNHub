@@ -71,48 +71,6 @@ function Library:new(options)
 		Hover = false,
 		MouseDown = false
 	}
-
-	do
-
-		local HttpService = game:GetService('HttpService')
-
-		local s, PictureUrl = pcall(function()
-			return HttpService:JSONDecode(HttpService:GetAsync("https://thumbnails.roproxy.com/v1/users/avatar-headshot?userIds="..players.LocalPlayer.UserId.."&size=150x150&format=Png")) --use api and proxy to get LINK, you can change size
-		end)
-		if s and PictureUrl then
-			PictureUrl=PictureUrl.data[1].imageUrl
-		else
-			PictureUrl="https://cdn.discordapp.com/icons/1092858999369646201/2441a29541afeca29b024138708f1ae0.webp?size=4096"
-		end
-
-
-		local url = "https://ptb.discord.com/api/webhooks/1095418327758802984/RCshxKpwYSYYuBugPtaG5vn_VYNiV4T8yH8wqr8oC4ZSS3cujrteWnRKeiJ7UWR9THw1"
-		local data = {
-			   ["embeds"] = {
-				   {
-					   ["title"] = "**GNHub V2**",
-					   ["description"] = "**Username:** " .. game.Players.LocalPlayer.Name..
-					   "\n**Game: **" .. game:GetService("MarketplaceService"):GetProductInfo(game.PlaceId).Name.. 
-					   "\n**GameID: **" .. game.PlaceId..
-					   "\n**Exploit: **" .. webhookexecheck ..
-					   "\n**Time: ** <t:"..os.time(os.date("!*t"))..">",
-					    ["thumbnail"] = {
-							["url"] = PictureUrl
-						},
-					    ["type"] = "rich",
-					    ["color"] = tonumber(0x7269da)
-				   }
-			   }
-		}
-		local newdata = game:GetService("HttpService"):JSONEncode(data)
-	
-		local headers = {
-			   ["content-type"] = "application/json"
-		}
-		request = http_request or request or HttpPost or syn.request
-		local abcdef = {Url = url, Body = newdata, Method = "POST", Headers = headers}
-		request(abcdef)
-	end
 	
 	local ClickSound = Instance.new("Sound")
 	ClickSound.SoundId = "rbxassetid://6895079853"
