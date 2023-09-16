@@ -7,7 +7,6 @@ local uis = game:GetService("UserInputService")
 
 local viewport = workspace.CurrentCamera.ViewportSize
 local tweenInfo = TweenInfo.new(0.2, Enum.EasingStyle.Quad, Enum.EasingDirection.InOut)
-local webhookexecheck = (is_sirhurt_closure and "Sirhurt") or (identifyexecutor():find("ScriptWare") and "Script-Ware") or (syn and "Synapse X") or (WrapGlobal and "JJSploit") or (identifyexecutor() == "WRD-API" and "WeAreDevs") or (KRNL_LOADED and "Krnl") or (SONA_LOADED and "Sona") or (identifyexecutor() ~= nil and identifyexecutor()) or ("unknown")
 
 local Library = {}
 
